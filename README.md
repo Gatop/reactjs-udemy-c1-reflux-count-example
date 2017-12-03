@@ -1,1 +1,1 @@
-## React desde 0 - Flujo de datos unidireccional con deflux
+## React desde 0 - Flujo de datos unidireccional con reflux
